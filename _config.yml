@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+title:            'Roberto Giovanni Ramírez Chavarría'
+tagline:          
+description:      ''
+url:              
+baseurl:          /
+
+author:
+  name:           'RGRCH'
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           
